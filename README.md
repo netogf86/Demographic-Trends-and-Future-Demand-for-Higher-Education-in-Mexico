@@ -45,16 +45,16 @@ The dataset includes population projections from 1990 to 2040 and is structured 
 These visualizations highlight the main demographic trends impacting higher education demand:
 
 ### 📉 Population Growth Rate
-![Population Growth Rate](figures/population_growth_rate.jpg)
+![Population Growth Rate](Figures/population_growth_rate.jpg)
 
 ### 👵 Aging Index Trend
-![Aging Index](figures/aging_index.jpg)
+![Aging Index](Figures/aging_index.jpg)
 
 ### 🇲🇽 Population Structure in Mexico
-![Population Structure Mexico](figures/population_structure_mexico.jpg)
+![Population Structure Mexico](Figures/population_structure_mexico.jpg)
 
 ### 📍 Population Structure in Nuevo León
-![Population Structure NL](figures/population_structure_nl.jpg)
+![Population Structure NL](Figures/population_structure_nl.jpg)
 
 ---
 
