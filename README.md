@@ -12,7 +12,7 @@ Using population projections by age group, the analysis explores how shifts in p
 
 You can explore a visual summary of the analysis here:
 
-👉 [View Full Presentation](report/demographic_trends_presentation.pdf)
+👉 [View Full Presentation](Report/Demographic-Trends-and-Future-Demand-for-Higher-Education-in-Mexico.pdf)
 ---
 
 ## Business Problem
