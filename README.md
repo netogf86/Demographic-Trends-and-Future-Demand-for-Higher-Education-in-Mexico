@@ -63,6 +63,15 @@ Demographic trends indicate a declining future pool of university-age students, 
 
 ---
 
+## 📌 Recommendations
+
+- Universities should diversify their target audience, including adult learners and continuing education programs
+- Develop flexible and online learning models to attract non-traditional students
+- Strengthen retention strategies due to a shrinking incoming student base
+- Explore international student recruitment as a growth alternative
+
+---
+
 ## Tools Used
 - Python (Pandas, Matplotlib)  
 - SQL  
