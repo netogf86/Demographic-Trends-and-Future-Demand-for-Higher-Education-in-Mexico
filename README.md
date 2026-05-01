@@ -31,6 +31,19 @@ The dataset includes population projections from 1990 to 2040 and is structured 
 
 ---
 
+## 📁 Project Structure
+
+```
+├── data/                  # Raw datasets
+├── figures/               # Visualizations
+├── notebooks/             # Jupyter notebooks
+│   └── analysis.ipynb
+├── sql/                   # SQL queries
+├── README.md
+```
+
+---
+
 ## Key Insights
 - Population growth is slowing down in both Mexico and Nuevo León  
 - Nuevo León is aging faster than the national average  
