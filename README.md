@@ -34,11 +34,12 @@ The dataset includes population projections from 1990 to 2040 and is structured 
 ## 📁 Project Structure
 
 ```
-├── data/                  # Raw datasets
-├── figures/               # Visualizations
-├── notebooks/             # Jupyter notebooks
-│   └── analysis.ipynb
-├── sql/                   # SQL queries
+├── Data/                  # Raw datasets
+├── Figures/               # Visualizations
+├── Notebooks/             # Jupyter notebooks
+│   └──Demographic-Trends-and-Future-Demand-for-Higher-Education-in-Mexico.ipynb
+├── Sql/                   # SQL queries
+│   └──Mexico_demographic_data_queries.sql               
 ├── README.md
 ```
 
