@@ -8,6 +8,12 @@ This project analyzes demographic trends in Mexico and the state of Nuevo León 
 Using population projections by age group, the analysis explores how shifts in population growth and age structure may affect the size of future university-age cohorts.
 
 ---
+## 📄 Executive Presentation
+
+You can explore a visual summary of the analysis here:
+
+👉 [View Full Presentation](report/demographic_trends_presentation.pdf)
+---
 
 ## Business Problem
 Higher education institutions depend on a stable or growing population of young people. However, demographic changes such as declining birth rates and population aging may reduce the number of potential students in the future.
