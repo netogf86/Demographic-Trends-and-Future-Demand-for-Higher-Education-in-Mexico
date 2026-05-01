@@ -36,7 +36,25 @@ The dataset includes population projections from 1990 to 2040 and is structured 
 - Nuevo León is aging faster than the national average  
 - The young population (0–14) is declining over time  
 - The elderly population (65+) is growing rapidly  
-- In Nuevo León, older adults are projected to surpass young people earlier than at the national level  
+- In Nuevo León, older adults are projected to surpass young people earlier than at the national level
+
+---
+
+## 📊 Key Visualizations
+
+These visualizations highlight the main demographic trends impacting higher education demand:
+
+### 📉 Population Growth Rate
+![Population Growth Rate](figures/population_growth_rate.jpg)
+
+### 👵 Aging Index Trend
+![Aging Index](figures/aging_index.jpg)
+
+### 🇲🇽 Population Structure in Mexico
+![Population Structure Mexico](figures/population_structure_mexico.jpg)
+
+### 📍 Population Structure in Nuevo León
+![Population Structure NL](figures/population_structure_nl.jpg)
 
 ---
 
