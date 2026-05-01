@@ -86,7 +86,25 @@ Demographic trends indicate a declining future pool of university-age students, 
 
 ---
 
+## ▶️ How to Run
+
+1. Clone the repository
+2. Open the notebook in Jupyter
+3. Run all cells to reproduce the analysis
+
+---
+
 ## Tools Used
 - Python (Pandas, Matplotlib)  
 - SQL  
 - Looker Studio / IA Presentation
+
+---
+
+- ## 👤 About Me
+
+Data analyst with a background in design, innovation, and higher education. Experienced in working within Scrum teams and innovation departments, focusing on improving the student experience through data-driven insights.
+
+I have contributed to initiatives that optimize processes across the student journey, from enrollment to graduation, by leveraging data analysis for strategic and innovative decision-making.
+
+Currently, I am building projects using SQL, Python, and data visualization to strengthen my ability to solve real-world business problems and support data-driven strategies.
